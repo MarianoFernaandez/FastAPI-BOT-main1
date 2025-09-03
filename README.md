@@ -1,3 +1,7 @@
+# Levantar el programa en Visual
+
+uvicorn app.main:app --reload --port 8000
+
 # Levantar Ngrok
 
 - Descargar Ngrok, Registrarse e iniciar la aplicacion y en la consola poner:
